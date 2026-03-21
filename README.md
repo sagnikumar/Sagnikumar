@@ -1,8 +1,9 @@
-# 💫 About Me:
-Hi, I’m a Data Science enthusiast and fresher.
+# 👋 Hi, I'm Sagnik Kumar
 
-I work with Machine Learning and Deep Learning using Python.
-Skilled in SQL, Power BI, and building data-driven applications.
+## 🚀 About Me
+Data Science enthusiast and fresher.
+
+I work with Machine Learning and Deep Learning using Python. Skilled in SQL, Power BI, and building data-driven applications.
 
 I have experience in data analysis, visualization, and creating ML projects.
 Currently focused on building real-world projects and improving my problem-solving skills.
